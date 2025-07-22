@@ -5,7 +5,7 @@ from tkinter import filedialog
 
 class File_organizer:
     def __init__(self):
-        self.folder = filedialog.askdirectory(title="Select your folder")
+        self.folder = filedialog.askdirectory(title="Select Your Folder")
             #Opens the file manager window of PC which allows the user to select folder.
 
     

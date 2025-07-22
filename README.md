@@ -4,7 +4,7 @@ A simple Python script that organizes files in a selected folder into subfolders
 ## 🚀 Features
 Choose any folder on your system using a GUI
 
-Automatically organizes files by extension (e.g., .jpg, .pdf, .mp3)
+Automatically organizes files by extension (e.g., .jpg, .pdf, .mp3, .mp4)
 
 Skips folders and empty files
 
